@@ -43,8 +43,7 @@ Omnifood is a fictional food delivery service dedicated to providing nutritious 
 
 Check out this video demonstration to see the Omnifood website in action:
 
-
-https://github.com/leelaprasanna152/Omnifood-website/assets/142930059/7b62ae38-c9a4-4b6c-b516-9ae28f29ebc4
+https://github.com/leelaprasanna152/Omnifood-website/assets/142930059/ebf77229-ac66-4414-b389-a972f145037e
 
 ## 📥 Setup Instructions
 
