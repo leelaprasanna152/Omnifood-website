@@ -2,8 +2,6 @@
 
 Welcome to the Omnifood Website Project! This project showcases the best practices in modern web design by using a variety of CSS properties, HTML tags, and AOS.js animations. Whether you're a developer looking for inspiration or a food enthusiast, this project has something for everyone.
 
-![Omnifood Banner](path-to-banner-image.jpg) 
-
 ## 🚀 Project Overview
 
 Omnifood is a fictional food delivery service dedicated to providing nutritious meals right to your doorstep. Our website is designed to be both visually appealing and highly functional, ensuring a seamless user experience across all devices.
